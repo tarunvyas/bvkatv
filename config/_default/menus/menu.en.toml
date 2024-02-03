@@ -48,6 +48,14 @@
   name = "facebook"
   weight = 2
   url = "https://www.facebook.com/bvkatv/"
+[[social]]    
+  name = "instagram"
+  weight = 2
+  url = "https://www.instagram.com/bvkatv_biographies"
+[[social]]    
+  name = "linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/in/tarun-vyas-11b62a13"
 [[social]]
   name = "twitter"
   weight = 2
