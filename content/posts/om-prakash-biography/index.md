@@ -22,7 +22,8 @@ categories:
 
 # Great Character Actor of Hindi Cinema – Om Prakash Biography
 
-![Om Prakash Biographyd](/posts/om-prakash-biography/poster.jpg)
+![Om Prakash Biographyd:::round](/posts/om-prakash-biography/poster.jpg)
+
 
 This is Great biography blog and video of Actor Om Prakash Biography
 
