@@ -4,6 +4,11 @@
   weight = -110
 
 [[main]]
+  name = "Bollywood Updates"
+  url = "/categories/news"
+  weight = -110
+
+[[main]]
   name = "Podcast"
   url = "/categories/podcast"
   weight = -109
