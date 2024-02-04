@@ -34,6 +34,6 @@ categories:
 ब्लकै एंड वाइट प्रिटं से कलर तक का सफर , कैसे कलाकार चेंज हुए,
 क्या क्या हुआ उस वक़्त आइये देख – फ़िल्मी झरोखा के इस वीडियो लिकं में
 
-| Biography Part -1    | Biography Part - 2 |
+| Biography Part - 1    | Biography Part - 2 |
 |:-------------------- | ------------------ | 
 | ![Part -1 Biography of Meena Kumari::left](https://img.youtube.com/vi/gypKFWxXZ5U/0.jpg) | ![Part -2 Biography of Meena Kumari](https://img.youtube.com/vi/gypKFWxXZ5U/0.jpg)| 
