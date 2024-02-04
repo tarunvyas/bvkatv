@@ -13,7 +13,7 @@ shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
 author: "Tarun Vyas"
 series:
     - Biography
-tags:
+tags: 
     - Om - Prakash
     - Biography
 categories:
