@@ -5,7 +5,7 @@ draft:  false
 featured: true  
 readTime: "5 min"
 description: "Podcast - on - Biographies"
-thumbnail: "posts/podcast-collection/poster.jpg"
+thumbnail: "/posts/podcast-collection/poster.jpg"
 featureImage: "/posts/podcast-collection/poster.jpg"
 featureImageAlt: 'Podcast - Biography' 
 featureImageCap: 'Podcast - Biography'
