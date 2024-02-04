@@ -4,13 +4,12 @@ date: 2024-02-02
 draft:  false   
 featured: true  
 readTime: "5 min"
-description: "hi this is anand"
+description: "Sanjeev Kumar - Biography"
 thumbnail: "/posts/sanjeev-kumar-biography/poster.jpg"
 featureImage: "/posts/sanjeev-kumar-biography/poster.jpg"
 featureImageAlt: 'Sanjeev Kumar - Biography' 
 featureImageCap: 'Sanjeev Kumar - Biography'
 shareImage: "/posts/sanjeev-kumar-biography/poster.jpg"
-showRelatedInArticle: true
 author: "Tarun Vyas"
 series:
     - Biography

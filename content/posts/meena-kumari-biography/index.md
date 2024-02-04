@@ -4,16 +4,16 @@ date: 2024-02-01
 draft:  false   
 tranding: true  
 readTime: "5 min"
+description: "Meena Kumari - Biography"
 thumbnail: "/posts/meena-kumari-biography/poster.jpg"
 featureImage: "/posts/meena-kumari-biography/poster.jpg"
-showRelatedInArticle: true
 author: "Tarun Vyas"
 series:
     - Biography
 tags:
     - Meena Kumari
     - Biography
-categories:
+categories:     
     - Biography
 ---
 
