@@ -6,9 +6,13 @@ tranding: true
 readTime: "5 min"
 thumbnail: "/posts/meena-kumari-biography/poster.jpg"
 featureImage: "/posts/meena-kumari-biography/poster.jpg"
+showRelatedInArticle: true
 author: "Tarun Vyas"
+series:
+    - Biography
 tags:
     - Meena Kumari
+    - Biography
 categories:
     - Biography
 ---
