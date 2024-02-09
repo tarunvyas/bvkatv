@@ -100,6 +100,6 @@ Tarun Vyas on IMDB – https://www.imdb.com/name/nm6071677
 
 Podcast Biography collection - https://www.youtube.com/playlist?list=PLb4JuTBQlBtv_i-ngQnkmsf-wiYfC1q6c
 
-![Tarun Vyas:left::round](/images/profile.png)
+![Tarun Vyas::round](/images/profile.png)
 
 Tags -  Sanjeev Kumar Biography, Hema Malini, Retro cinema, Sanjeev kumar films, Actors actor sanjeev kumar, BV ka TV Biographies, Bollywood update

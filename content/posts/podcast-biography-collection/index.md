@@ -54,7 +54,7 @@ Tarun Vyas Website – https://www.tarunvyas.com
 Tarun Vyas on IMDB – https://www.imdb.com/name/nm6071677
 
 
-![Tarun Vyas:left::round](/images/profile.png)
+![Tarun Vyas::round](/images/profile.png)
 
 Tags -  Biography on BV ka TV 
 
