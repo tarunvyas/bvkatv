@@ -12,7 +12,7 @@ featureImageCap: 'Crakk - Movie - update'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
 author: "Tarun Vyas"
 series:
-    - Biography
+    - Bollywood Updates
 tags:
     - Biography
     - Jeevan Biography
