@@ -30,10 +30,6 @@ categories:
 ### क्यू रोने लगी नौरा फतेही 
 अर्जुन रामपाल, विद्युत जामवाल और नोरा फतेही इन दिनों अपनी अपकमिंग फिल्म 'क्रैक' को रिलीज करने के लिए तैयार हैं। 23 फरवरी, 2024 को नाटकीय रिलीज से पहले, टीम ने 9 फरवरी, 2024 को मुंबई में एक ट्रेलर लॉन्च इवेंट की मेजबानी की। इस कार्यक्रम में भाग लेने के दौरान, अर्जुन रामपाल और नोरा फतेही ने 'क्रैक' के शूटिंग सेट से कुछ घटनाओं को साझा किया, जहां वे गंभीर रूप से घायल हो गए थे।
 
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/107565927.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/107565927.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
 
 ## External Link
 Tarun Vyas Website – https://www.tarunvyas.com
