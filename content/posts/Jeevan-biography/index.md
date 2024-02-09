@@ -5,7 +5,7 @@ draft:  false
 tranding: true  
 readTime: "5 min"
 description: "Jeevan - Biography"
-thumbnail: "/posts/jeevan-biography/poster.jpg"
+thumbnail: "/posts/jeevan-biography/poster2.jpg"
 featureImage: "/posts/jeevan-biography/poster.jpg"
 featureImageAlt: 'Jeevan - Biography' 
 featureImageCap: 'Jeevan - Biography'
@@ -32,7 +32,7 @@ tags:
 categories:
     - Biography
 ---
-#Narad and Villain of Retro Bollywood – Jeevan Biography
+# Narad and Villain of Retro Bollywood – Jeevan Biography
 
 ### jeevan biography
 
