@@ -17,6 +17,7 @@ tags:
     - Biography
     - Jeevan Biography
     - BV ka TV
+    - Tarun Vyas
 categories:
     - Biography
 ---

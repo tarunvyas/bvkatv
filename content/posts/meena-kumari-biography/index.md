@@ -16,7 +16,8 @@ series:
 tags:
     - Biography
     - Meena Kumari Biography
-    - bv ka tv
+    - BV ka TV
+    - Tarun Vyas
 categories:
     - Biography
 ---

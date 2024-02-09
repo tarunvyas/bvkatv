@@ -16,7 +16,8 @@ series:
 tags:
     - Biography
     - Om prakash Biography
-    - bv ka tv
+    - BV ka TV
+    - Tarun Vyas
     
 categories:
     - Biography
