@@ -2,7 +2,7 @@
 title: 'Meena Kumari - Biography'
 date: 2024-02-01
 draft:  false   
-tranding: true  
+featured: true  
 readTime: "5 min"
 description: "Meena Kumari - Biography"
 thumbnail: "/posts/meena-kumari-biography/poster.jpg"

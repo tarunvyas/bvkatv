@@ -2,7 +2,7 @@
 title: 'Jeevan - Biography'
 date: 2024-02-01
 draft:  false   
-tranding: true  
+featured: false  
 readTime: "5 min"
 description: "Jeevan - Biography"
 thumbnail: "https://img.youtube.com/vi/eXHyB6jLrkY/0.jpg"
