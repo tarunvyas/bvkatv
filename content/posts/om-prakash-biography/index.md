@@ -5,8 +5,8 @@ draft:  false
 featured: true  
 readTime: "5 min"
 description: "Om - Prakash - Biography"
-thumbnail: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
-featureImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
+thumbnail: "/posts/om-kprakash-biography/poster.jpg"
+featureImage: "/posts/om-prakash-biography/poster.jpg
 featureImageAlt: 'Om - Prakash - Biography' 
 featureImageCap: 'Om - Prakash - Biography'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
@@ -28,7 +28,6 @@ tags:
     - Lyricist Biography
     - Director's Biography
     - Music Director's Biogrpahy
-    - yogita vyas 
     - Om prakash Biography
 categories:
     - Biography
@@ -36,7 +35,7 @@ categories:
 
 # Great Character Actor of Hindi Cinema – Om Prakash Biography
 
-![Om Prakash Biographyd:::round](/posts/om-prakash-biography/poster.jpg)
+![Om Prakash Biographyd:::round](/posts/om-prakash-biography/poster2.jpg)
 
 
 This is Great biography blog and video of Actor Om Prakash Biography
