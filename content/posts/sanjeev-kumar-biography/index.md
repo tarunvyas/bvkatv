@@ -28,7 +28,6 @@ tags:
     - Lyricist Biography
     - Director's Biography
     - Music Director's Biogrpahy
-    - yogita vyas 
     - Sanjeev kumar biography
 categories:
     - Biography

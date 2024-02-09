@@ -4,8 +4,8 @@ date: 2024-02-02
 draft:  false   
 featured: true  
 readTime: "5 min"
-description: "Podcast - on -Actress - Biographies"
-thumbnail: "posts/podcast-actress-biography/poster.jpg"
+description: "Podcast - on - Actress - Biographies"
+thumbnail: "/posts/podcast-actress-biography/poster.jpg"
 featureImage: "/posts/podcast-actres-biography/poster.jpg"
 featureImageAlt: 'Podcast - Actress - Biography' 
 featureImageCap: 'Podcast - Actress - Biography'
@@ -28,7 +28,7 @@ tags:
     - Lyricist Biography
     - Director's Biography
     - Music Director's Biogrpahy
-    - yogita vyas 
+    
 categories:
     - Podcast
 ---

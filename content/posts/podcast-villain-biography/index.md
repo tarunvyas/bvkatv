@@ -5,7 +5,7 @@ draft:  false
 featured: true  
 readTime: "5 min"
 description: "Podcast - on - Directors - Biographies"
-thumbnail: "posts/podcast-directors-biography/poster.jpg"
+thumbnail: "/posts/podcast-directors-biography/poster.jpg"
 featureImage: "/posts/podcast-directors-biography/poster.jpg"
 featureImageAlt: 'Podcast - Directors - Biography' 
 featureImageCap: 'Podcast - Directors - Biography'

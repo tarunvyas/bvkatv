@@ -5,7 +5,7 @@ draft:  false
 featured: true  
 readTime: "5 min"
 description: "Podcast - on - Actors - Biographies"
-thumbnail: "posts/podcast-actors-biography/poster.jpg"
+thumbnail: "/posts/podcast-actors-biography/poster.jpg"
 featureImage: "/posts/podcast-actors-biography/poster.jpg"
 featureImageAlt: "Podcast - Actor\'s - Biography" 
 featureImageCap: "Podcast - Actor\'s - Biography"
@@ -28,7 +28,7 @@ tags:
     - Lyricist Biography
     - Director's Biography
     - Music Director's Biogrpahy
-    - yogita vyas 
+    
 categories:
     - Podcast
 ---

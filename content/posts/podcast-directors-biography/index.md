@@ -5,7 +5,7 @@ draft:  false
 featured: true  
 readTime: "5 min"
 description: "Podcast - on - Villain - Biographies"
-thumbnail: "posts/podcast-villain-biography/poster.jpg"
+thumbnail: "/posts/podcast-villain-biography/poster.jpg"
 featureImage: "/posts/podcast-villain-biography/poster.jpg"
 featureImageAlt: 'Podcast - Villain - Biography' 
 featureImageCap: 'Podcast - Villain - Biography'
@@ -28,7 +28,7 @@ tags:
     - Lyricist Biography
     - Director's Biography
     - Music Director's Biogrpahy
-    - yogita vyas 
+    
 categories:
     - Podcast
 ---
