@@ -9,7 +9,7 @@ thumbnail: "/posts/crakk-movie-update/poster2.jpg"
 featureImage: "/posts/crakk-movie-update/poster1.jpg"
 featureImageAlt: 'Crakk - Movie - update' 
 featureImageCap: 'Crakk - Movie - update'
-shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
+shareImage: "/posts/crakk-movie-update/poster1.jpg"
 author: "Tarun Vyas"
 series:
     - Bollywood Updates
