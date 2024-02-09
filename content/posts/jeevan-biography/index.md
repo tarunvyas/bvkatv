@@ -9,7 +9,7 @@ thumbnail: "/posts/jeevan-biography/poster2.jpg"
 featureImage: "/posts/jeevan-biography/poster.jpg"
 featureImageAlt: 'Jeevan - Biography' 
 featureImageCap: 'Jeevan - Biography'
-shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
+shareImage: "/posts/jeevan-biography/poster.jpg"
 author: "Tarun Vyas"
 series:
     - Biography
