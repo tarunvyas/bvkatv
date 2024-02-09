@@ -69,8 +69,7 @@ Podcast Biography collection - https://www.youtube.com/playlist?list=PLb4JuTBQlB
 
 ![Tarun Vyas:left::round](/images/profile.png)
 
-Tags -  Biography of Om prakash - Om-Prakash- Biography on BV ka TV 
-
+Tags -  Biography of Om prakash, Retro cinema vactor, Hindi films comedian, Bollywood actors, radio in bollywood, BV ka TV Biographies, Bollywood update
 
 
 

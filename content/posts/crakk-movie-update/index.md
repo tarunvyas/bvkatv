@@ -39,7 +39,7 @@ Tarun Vyas on IMDB – https://www.imdb.com/name/nm6071677
 Podcast Biography collection - https://www.youtube.com/playlist?list=PLb4JuTBQlBtv_i-ngQnkmsf-wiYfC1q6c
 ![Tarun Vyas:left::round](/images/profile.png)
 
-Tags -  Biography of Om prakash - Om-Prakash- Biography on BV ka TV 
+Tags - Bollywood News, Bollywood Updates, Latest hindi film, Hindi films, Arjun Rampal, Vidhyut Jamwal, BV ka TV Biographies, Bollywood update
 
 
 
