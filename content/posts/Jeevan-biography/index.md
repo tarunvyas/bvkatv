@@ -5,9 +5,14 @@ draft:  false
 tranding: true  
 readTime: "5 min"
 description: "Jeevan - Biography"
-thumbnail: "https://img.youtube.com/vi/eXHyB6jLrkY/0.jpg"
-featureImage: "https://img.youtube.com/vi/eXHyB6jLrkY/0.jpg"
+thumbnail: "/posts/jeevan-biography/poster.jpg"
+featureImage: "/posts/jeevan-biography/poster.jpg
+featureImageAlt: 'Jeevan - Biography' 
+featureImageCap: 'Jeevan - Biography'
+shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
 author: "Tarun Vyas"
+series:
+    - Biography
 tags:
     - Podcast
     - Biography
@@ -23,20 +28,16 @@ tags:
     - Lyricist Biography
     - Director's Biography
     - Music Director's Biogrpahy
-    - yogita vyas 
-    - Jeevan biography
-categories:     
+    - Om prakash Biography
+categories:
     - Biography
 ---
 #Narad and Villain of Retro Bollywood – Jeevan Biography
 
-### जीवन की बायोग्राफी का लिंक देखिए - https://www.youtube.com/watch?v=eXHyB6jLrkY
-
 ### jeevan biography
 
-
-
 ![jeevan Biography](/posts/jeevan-biography/poster2.jpg)
+
 जीवन का जन्म 24 अक्टूबर 1915 को श्री नगर में हुआ था
 जीवन का असली नाम था ओमकार नाथ धर.जन्म एक बड़े कश्मीरी पंडित परिवार में हुआ
 था। उनके दादा बहुत अमीर थे, उन्होंने गिलगित एजेंसी के गवर्नर के रूप में कार्य किया
@@ -50,17 +51,41 @@ categories:
 
 मुंबई में संघर्ष करते करते , उन्हें मोहन सिन्हा (विद्या सिन्हा के दादा) के स्टूडियो में नौकरी मिल गई थी । उनका काम रिफ्लेक्टर पर सिल्वर पेपर चिपकाना था। रिफ्लेक्टर बॉय के रूप में काम करने के दौरान उन्हें मोहन सिन्हा की फिल्म फैशनेबल इंडिया में मुख्य भूमिका मिली जिसके बाद उन्होंने पीछे मुड़कर कभी नहीं देखा
 
+### जीवन की बायोग्राफी का लिंक देखिए - https://www.youtube.com/watch?v=eXHyB6jLrkY
+
 ## नारद की भूमिका 
+
 ![jeevan Biography](/posts/jeevan-biography/poster1.jpg)
+
 जीवन ने 60 बार धार्मिक फिल्मो में नारद की भूमिका निभाई थी – अभिनेता जीवन का दूसरा नाम नारद पड़ चूका था
 आज भी नारद के अभिनय के लिए जीवन को ही याद किया जाता है 
 
 ## जीवन से जीवन विदा हो गए 
+
 ![jeevan Biography](/posts/jeevan-biography/poster3.jpg)
+
 10 जून 1987 को जीवन इस दुनिया को अलविदा कह गए और पीछे छोड़ गए एक फिल्मों की यादों का कारवां जो भुलाये नहीं भूलेगा 
 इनके पुत्र है किरण कुमार जिहोने टीवी और सिनेमा में अपनी पहचान तेज़ाब जैसी कई फिल्मो और धारावाहिक से बनाई
 
 ## जीवन की जीवनी 
+
 जीवन की पूरी जीवनी संघर्ष से भरी है कब क्या क्या हुआ ये सब जानने के लिए निचे दिए बायोग्राफी वीडियो लिंक पर क्लिक कीजिये और देखिये जीवन की संपूर्ण जीवनी BV ka TV यूट्यूब चैनल पर 
 https://www.youtube.com/watch?v=eXHyB6jLrkY
+
+अब  आज्ञा  दीजिये  योगिता  व्यास  और  तरुण  व्यास  को  नमस्कार
+
+## External Link
+Tarun Vyas Website – https://www.tarunvyas.com
+
+Tarun Vyas on IMDB – https://www.imdb.com/name/nm6071677
+
+Om Prakash on IMDB – https://www.imdb.com/name/nm0695170
+
+![Tarun Vyas:left::round](/images/profile.png)
+
+Tags -  Biography of Om prakash - Om-Prakash- Biography on BV ka TV 
+
+
+
+
 

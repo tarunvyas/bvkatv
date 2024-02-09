@@ -5,7 +5,7 @@ draft:  false
 featured: true  
 readTime: "5 min"
 description: "Om - Prakash - Biography"
-thumbnail: "/posts/om-kprakash-biography/poster.jpg"
+thumbnail: "/posts/om-prakash-biography/poster.jpg"
 featureImage: "/posts/om-prakash-biography/poster.jpg
 featureImageAlt: 'Om - Prakash - Biography' 
 featureImageCap: 'Om - Prakash - Biography'
@@ -52,7 +52,7 @@ Om Prakash Biography by BV ka TV Tarun Vyas.
 
 आप  हमारे  पॉडकास्ट  पर  भी  ये  बायोग्राफी  सुन  सकते  है  दिए  गए  लिंक  पर  सुनिए
 
-Biography Link - https://www.youtube.com/watch?v=e-FZpANzfnc
+Jeevan Biography Link - https://www.youtube.com/watch?v=e-FZpANzfnc
 
 ## Om Prakash Legendary Character Actor
 
