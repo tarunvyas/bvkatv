@@ -1,6 +1,6 @@
 ---
 title: 'Jeevan - Biography'
-date: 2024-02-01
+date: 2024-02-04
 draft:  false   
 tranding: true  
 readTime: "5 min"
@@ -28,12 +28,13 @@ tags:
 categories:     
     - Biography
 ---
+Narad and Villain of Retro Bollywood – Jeevan Biography
 
 ### जीवन की बायोग्राफी का लिंक देखिए - https://www.youtube.com/watch?v=eXHyB6jLrkY
 
 ### jeevan biography
 
-Narad and Villain of Retro Bollywood – Jeevan Biography
+
 
 ![jeevan Biography](/posts/jeevan-biography/poster2.jpg)
 जीवन का जन्म 24 अक्टूबर 1915 को श्री नगर में हुआ था

@@ -7,6 +7,9 @@ readTime: "5 min"
 description: "Meena Kumari - Biography"
 thumbnail: "/posts/meena-kumari-biography/poster.jpg"
 featureImage: "/posts/meena-kumari-biography/poster.jpg"
+featureImageAlt: 'Meena - Kumari - Biography' 
+featureImageCap: 'Meena - Kumari - Biography'
+shareImage: "https://img.youtube.com/vi/e-gypKFWxXZ5U/0.jpg"
 author: "Tarun Vyas"
 series:
     - Biography
@@ -25,10 +28,13 @@ tags:
     - Lyricist Biography
     - Director's Biography
     - Music Director's Biogrpahy
-    - Meena Kumar Biography
-categories:     
+    - yogita vyas 
+    - Om prakash Biography
+categories:
     - Biography
 ---
+### Meena kumari Biography - https://www.youtube.com/watch?v=gypKFWxXZ5U
+
 ## Meena Kumari Biography
 This is Biography of Meena kumari. Please check and comment
 
