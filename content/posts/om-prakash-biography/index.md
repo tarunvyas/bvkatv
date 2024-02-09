@@ -6,7 +6,7 @@ featured: true
 readTime: "5 min"
 description: "Om - Prakash - Biography"
 thumbnail: "/posts/om-prakash-biography/poster.jpg"
-featureImage: "/posts/om-prakash-biography/poster.jpg
+featureImage: "/posts/om-prakash-biography/poster.jpg"
 featureImageAlt: 'Om - Prakash - Biography' 
 featureImageCap: 'Om - Prakash - Biography'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"

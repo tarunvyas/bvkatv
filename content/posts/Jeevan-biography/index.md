@@ -6,7 +6,7 @@ tranding: true
 readTime: "5 min"
 description: "Jeevan - Biography"
 thumbnail: "/posts/jeevan-biography/poster.jpg"
-featureImage: "/posts/jeevan-biography/poster.jpg
+featureImage: "/posts/jeevan-biography/poster.jpg"
 featureImageAlt: 'Jeevan - Biography' 
 featureImageCap: 'Jeevan - Biography'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
@@ -51,7 +51,7 @@ categories:
 
 मुंबई में संघर्ष करते करते , उन्हें मोहन सिन्हा (विद्या सिन्हा के दादा) के स्टूडियो में नौकरी मिल गई थी । उनका काम रिफ्लेक्टर पर सिल्वर पेपर चिपकाना था। रिफ्लेक्टर बॉय के रूप में काम करने के दौरान उन्हें मोहन सिन्हा की फिल्म फैशनेबल इंडिया में मुख्य भूमिका मिली जिसके बाद उन्होंने पीछे मुड़कर कभी नहीं देखा
 
-### जीवन की बायोग्राफी का लिंक देखिए - https://www.youtube.com/watch?v=eXHyB6jLrkY
+जीवन की बायोग्राफी का लिंक देखिए - https://www.youtube.com/watch?v=eXHyB6jLrkY
 
 ## नारद की भूमिका 
 
