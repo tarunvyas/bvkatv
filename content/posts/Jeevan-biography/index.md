@@ -14,21 +14,9 @@ author: "Tarun Vyas"
 series:
     - Biography
 tags:
-    - Podcast
     - Biography
-    - bv ka tv
-    - Tarun vyas
-    - Hindi cinema Villain 
-    - Bollywood biography
-    - Actor Biographies
-    - Actress Biography 
-    - Singers Biography
-    - Comedians Biography
-    - Villains Biography
-    - Lyricist Biography
-    - Director's Biography
-    - Music Director's Biogrpahy
-    - Om prakash Biography
+    - Jeevan Biography
+    - BV ka TV
 categories:
     - Biography
 ---

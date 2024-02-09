@@ -14,22 +14,11 @@ author: "Tarun Vyas"
 series:
     - Biography
 tags:
-    - Podcast
     - Biography
+    - Sanjeev kumar
     - bv ka tv
     - Tarun vyas
-    - Hindi cinema Villain 
-    - Bollywood biography
-    - Actor Biographies
-    - Actress Biography 
-    - Singers Biography
-    - Comedians Biography
-    - Villains Biography
-    - Lyricist Biography
-    - Director's Biography
-    - Music Director's Biogrpahy
-    - yogita vyas 
-    - Sanjeev Biography
+    
 categories:
     - Biography
 ---

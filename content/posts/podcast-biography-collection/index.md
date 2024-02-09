@@ -16,19 +16,9 @@ series:
 tags:
     - Podcast
     - Biography
-    - bv ka tv
+    - Collection of Biographies
+    - BV ka TV
     - Tarun vyas
-    - Hindi cinema Villain 
-    - Bollywood biography
-    - Actor Biographies
-    - Actress Biography 
-    - Singers Biography
-    - Comedians Biography
-    - Villains Biography
-    - Lyricist Biography
-    - Director's Biography
-    - Music Director's Biogrpahy
-    - yogita vyas 
 categories:
     - Podcast
 ---

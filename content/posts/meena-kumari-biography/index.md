@@ -14,22 +14,9 @@ author: "Tarun Vyas"
 series:
     - Biography
 tags:
-    - Podcast
     - Biography
+    - Meena Kumari Biography
     - bv ka tv
-    - Tarun vyas
-    - Hindi cinema Villain 
-    - Bollywood biography
-    - Actor Biographies
-    - Actress Biography 
-    - Singers Biography
-    - Comedians Biography
-    - Villains Biography
-    - Lyricist Biography
-    - Director's Biography
-    - Music Director's Biogrpahy
-    - yogita vyas 
-    - Om prakash Biography
 categories:
     - Biography
 ---
