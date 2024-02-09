@@ -52,3 +52,5 @@ categories:
 ब्लकै एंड वाइट प्रिटं से कलर तक का सफर , कैसे कलाकार चेंज हुए,
 क्या क्या हुआ उस वक़्त आइये देख – फ़िल्मी झरोखा के इस वीडियो लिकं में
 
+## meena kumari biography
+https://youtu.be/gypKFWxXZ5U?si=TOkWWdfec95qfIPN
