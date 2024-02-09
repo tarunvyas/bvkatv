@@ -1,14 +1,14 @@
 ---
-title: 'Podcast on Actor's Biographies'
+title: "Podcast on Actor's Biographies"
 date: 2024-02-02
 draft:  false   
 featured: true  
 readTime: "5 min"
-description: "Podcast - on -Actors - Biographies"
+description: "Podcast - on - Actors - Biographies"
 thumbnail: "posts/podcast-actors-biography/poster.jpg"
 featureImage: "/posts/podcast-actors-biography/poster.jpg"
-featureImageAlt: 'Podcast - Actor's - Biography' 
-featureImageCap: 'Podcast - Actor's - Biography'
+featureImageAlt: "Podcast - Actor\'s - Biography" 
+featureImageCap: "Podcast - Actor\'s - Biography"
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
 author: "Tarun Vyas"
 series:
@@ -67,10 +67,3 @@ Tarun Vyas on IMDB – https://www.imdb.com/name/nm6071677
 ![Tarun Vyas:left::round](/images/profile.png)
 
 Tags -  Biography on BV ka TV 
-
-
-
-
-
-
-
