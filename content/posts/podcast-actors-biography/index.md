@@ -1,6 +1,6 @@
 ---
-title: "Podcast on Actor's Biographies"
-date: 2024-02-02
+title: "Podcast on Actors Biographies"
+date: 2024-02-04
 draft:  false   
 featured: true  
 readTime: "5 min"

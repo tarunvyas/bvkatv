@@ -1,18 +1,18 @@
 ---
-title: 'Podcast on Actoress Biographies'
-date: 2024-02-02
+title: 'Podcast on Lyricist Biographies'
+date: 2024-02-08
 draft:  false   
 featured: true  
 readTime: "5 min"
-description: "Podcast - on -Actoress - Biographies"
-thumbnail: "/posts/podcast-actoress-biography/poster.jpg"
-featureImage: "/posts/podcast-actores-biography/poster.jpg"
-featureImageAlt: 'Podcast - Actoress - Biography' 
-featureImageCap: 'Podcast - Actoress - Biography'
+description: "Podcast - on - Lyricist - Biographies"
+thumbnail: "/posts/podcast-lyricist-biography/poster.jpg"
+featureImage: "/posts/podcast-lyricist-biography/poster.jpg"
+featureImageAlt: 'Podcast - Lyricist - Biography' 
+featureImageCap: 'Podcast - Lyricist - Biography'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
 author: "Tarun Vyas"
 series:
-    - Podcast - on - Actoress - Biography - BV ka TV
+    - Podcast - on - Lyricist - Biography - BV ka TV
 tags:
     - Podcast
     - Biography

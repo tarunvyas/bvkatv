@@ -1,11 +1,11 @@
 ---
 title: 'Podcast on Comedian Biographies'
-date: 2024-02-02
+date: 2024-02-06
 draft:  false   
 featured: true  
 readTime: "5 min"
 description: "Podcast - on - Comedian - Biographies"
-thumbnail: "/posts/podcast-actoress-biography/poster.jpg"
+thumbnail: "/posts/podcast-comedian-biography/poster.jpg"
 featureImage: "/posts/podcast-comedian-biography/poster.jpg"
 featureImageAlt: 'Podcast - Comedian - Biography' 
 featureImageCap: 'Podcast - Comedian - Biography'
