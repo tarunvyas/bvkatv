@@ -14,8 +14,8 @@ author: "Tarun Vyas"
 series:
     - Bollywood Updates
 tags:
-    - Biography
-    - Jeevan Biography
+    - Vidhyut Jamwal
+    - Crakk Movie Update
     - BV ka TV
     - Tarun Vyas
 categories:
