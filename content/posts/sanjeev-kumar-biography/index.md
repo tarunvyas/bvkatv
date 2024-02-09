@@ -66,15 +66,29 @@ This is Biography of Sanjeev Kumar. Please check and comment
 पर एक दिन ऐसा हुआ कि नूतन उन्हें छोड़ कर चली गई और कारण की बात करे तो वो भी बड़ा अजीब था
 अगर आप जानना चाहे तो दिए गए वीडियो लिंक में देखिये 
 
-![sanjeev kumar Biography](/posts/sanjeev-kumar-biography/Sanjeev_kumar_hema_malini.jpg)
+https://www.youtube.com/watch?v=5gGEN_0rJSQ
 
+![sanjeev kumar Biography](/posts/sanjeev-kumar-biography/Sanjeev_kumar_hema_malini.jpg)
 ## Sanjeev Kumar and Hema Malini Love life
 दूसरी और आखिरी बार संजीव कुमार के जीवन में कोई प्यार लेकर आया 
 वो थी अभिनेत्री हेमा मालिनी इनसे तो शादी की बात भी चली सब कुछ ठीक चल रहा था
 लेकिन एक बार फिर किस्मत ने इन्हे अकेला कर दिया
-क्या हुआ ये आप जानिए इस Youtube channel Filmi Jharokha वीडियो लिंक में #sanjeevkumarhemamalini
+क्या हुआ ये आप जानिए इस Youtube channel बॉलीवुड टॉकीज के  वीडियो लिंक में #sanjeevkumarhemamalini
+
+https://www.youtube.com/watch?v=z4XlqDWSkh4
 
 ![sanjeev kumar Biography](/posts/sanjeev-kumar-biography/Sanjeev_kumar.jpg)
+
+## संजीव कुमार के पैसे बहुत लोगों ने वापस नहीं दिए 
+
+संजीव कुमार दिल के बड़े नेक इंसान थे उन्होंने फिल्मी दुनिया के बहुत से लोगों को पैसे से मदद की और उधार में पैसे दिए 
+पर वो पैसे वापस नहीं आए बस कुछ ही लोगों ने लौटाए - जानिए कौन थे वो लोग जिन्होंने नहीं लौटाए संजीव कुमार के पैसे 
+
+https://www.youtube.com/watch?v=I8JRxib6pu0
+
+## राजेश खन्ना और संजीव कुमार में क्या दुश्मनी थी 
+संजीव कुमार और राजेश खन्ना दोनों का ही स्टार दम सबको लुभाता था पर दोनों आपस में कैसे थे ये जानिए 
+इस लिंक में - https://www.youtube.com/watch?v=n2JcOY3dQ8w
 
 ### Awards and Recognition of Sanjeev Kumar
 1960 से 1984 तक पूरे पच्चीस साल तक वे लगातार फ़िल्मों में सक्रिय रहे।
