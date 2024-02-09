@@ -2,15 +2,29 @@
 title: 'Jeevan - Biography'
 date: 2024-02-01
 draft:  false   
-featured: false  
+tranding: true  
 readTime: "5 min"
 description: "Jeevan - Biography"
 thumbnail: "https://img.youtube.com/vi/eXHyB6jLrkY/0.jpg"
 featureImage: "https://img.youtube.com/vi/eXHyB6jLrkY/0.jpg"
 author: "Tarun Vyas"
 tags:
-    - Jeevan
+    - Podcast
     - Biography
+    - bv ka tv
+    - Tarun vyas
+    - Hindi cinema Villain 
+    - Bollywood biography
+    - Actor Biographies
+    - Actress Biography 
+    - Singers Biography
+    - Comedians Biography
+    - Villains Biography
+    - Lyricist Biography
+    - Director's Biography
+    - Music Director's Biogrpahy
+    - yogita vyas 
+    - Jeevan biography
 categories:     
     - Biography
 ---

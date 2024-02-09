@@ -22,6 +22,12 @@ tags:
     - Bollywood biography
     - Actor Biographies
     - Actress Biography 
+    - Singers Biography
+    - Comedians Biography
+    - Villains Biography
+    - Lyricist Biography
+    - Director's Biography
+    - Music Director's Biogrpahy
     - yogita vyas 
 categories:
     - Podcast

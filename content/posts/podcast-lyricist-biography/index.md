@@ -18,10 +18,17 @@ tags:
     - Biography
     - bv ka tv
     - Tarun vyas
-    - Hindi cinema
+    - Hindi cinema Villain 
     - Bollywood biography
     - Actor Biographies
     - Actress Biography 
+    - Singers Biography
+    - Comedians Biography
+    - Villains Biography
+    - Lyricist Biography
+    - Director's Biography
+    - Music Director's Biogrpahy
+    - yogita vyas  
 categories:
     - Podcast
 ---
@@ -58,7 +65,7 @@ Biography का चैनल -  https://www.youtube.com/@BVKaTV
 
 
 
-पॉडकास्ट सुनने  के लिए नीचे दिए लिंक पर जाए इसमें बहुत से अभिनेताओ की  जीवनिया है अभी देखिए 
+पॉडकास्ट सुनने  के लिए नीचे दिए लिंक पर जाए इसमें बहुत से गीतकारों की  जीवनिया है अभी देखिए 
 
 https://www.youtube.com/playlist?list=PLb4JuTBQlBtv1sJvQlANs-XdugKi9sgdC
 

@@ -2,7 +2,7 @@
 title: 'Meena Kumari - Biography'
 date: 2024-02-01
 draft:  false   
-featured: true  
+tranding: true  
 readTime: "5 min"
 description: "Meena Kumari - Biography"
 thumbnail: "/posts/meena-kumari-biography/poster.jpg"
@@ -11,13 +11,27 @@ author: "Tarun Vyas"
 series:
     - Biography
 tags:
-    - Meena Kumari
+    - Podcast
     - Biography
+    - bv ka tv
+    - Tarun vyas
+    - Hindi cinema Villain 
+    - Bollywood biography
+    - Actor Biographies
+    - Actress Biography 
+    - Singers Biography
+    - Comedians Biography
+    - Villains Biography
+    - Lyricist Biography
+    - Director's Biography
+    - Music Director's Biogrpahy
+    - yogita vyas 
+    - Meena Kumar Biography
 categories:     
     - Biography
 ---
 
-मीना कुमारी के पैदा होते ही उनके साथ परेशानिया शुरू हो गई थी और ताउम्र वो ये दुःख झेलती रही और दुनिया से रुखसत हो गई थी परन्तु उन्होंने कभी भी कि सी से भी किसी की भी कोई शिकायत नहीं की बस काम करती रही और होंठ हमेशा बंद रहे उफ़ तक न की ऐसी अभिनेत्री मीना कुमारी के जीवनी सुन का आँखों से आंसू आजाते है दिल भर आता है जी करता है के काश मैं वहां होता और बेदर्द दुनिया में उनका दुःख हल्का कर पाता 
+मीना कुमारी के पैदा होते ही उनके साथ परेशानिया शुरू हो गई थी और ताउम्र वो ये दुःख झेलती रही और दुनिया से रुखसत हो गई थी परन्तु उन्होंने कभी भी किसी से भी किसी की भी कोई शिकायत नहीं की बस काम करती रही और होंठ हमेशा बंद रहे उफ़ तक न की ऐसी अभिनेत्री मीना कुमारी के जीवनी सुन का आँखों से आंसू आजाते है दिल भर आता है जी करता है के काश मैं वहां होता और बेदर्द दुनिया में उनका दुःख हल्का कर पाता 
 
 ### धार्मिक आलोचना का सामना किया
 
@@ -38,6 +52,3 @@ categories:
 ब्लकै एंड वाइट प्रिटं से कलर तक का सफर , कैसे कलाकार चेंज हुए,
 क्या क्या हुआ उस वक़्त आइये देख – फ़िल्मी झरोखा के इस वीडियो लिकं में
 
-| Biography Part - 1    | Biography Part - 2 |
-|:-------------------- | ------------------ | 
-| ![Part -1 Biography of Meena Kumari::left](https://img.youtube.com/vi/gypKFWxXZ5U/0.jpg) | ![Part -2 Biography of Meena Kumari](https://img.youtube.com/vi/gypKFWxXZ5U/0.jpg)| 

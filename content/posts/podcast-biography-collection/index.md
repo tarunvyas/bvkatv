@@ -5,19 +5,33 @@ draft:  false
 featured: true  
 readTime: "5 min"
 description: "Podcast - on - Biographies"
-thumbnail: "/posts/podcast-collection/poster.jpg"
+thumbnail: "posts/podcast-collection/poster.jpg"
 featureImage: "/posts/podcast-collection/poster.jpg"
 featureImageAlt: 'Podcast - Biography' 
 featureImageCap: 'Podcast - Biography'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
 author: "Tarun Vyas"
+series:
+    - Podcast - BV ka TV
 tags:
     - Podcast
+    - Biography
+    - bv ka tv
+    - Tarun vyas
+    - Hindi cinema Villain 
     - Bollywood biography
+    - Actor Biographies
+    - Actress Biography 
+    - Singers Biography
+    - Comedians Biography
+    - Villains Biography
+    - Lyricist Biography
+    - Director's Biography
+    - Music Director's Biogrpahy
+    - yogita vyas 
 categories:
     - Podcast
 ---
-
 सुनिए और देखिए एक शानदार पॉडकास्ट चैनल - bv ka tv यहाँ आपको मिलेंगी बहुत ही गहरी शोध की गई जीवनियों का संग्रह 
 इसमें भारतीय सिनेमा के ब्लैक एण्ड व्हाइट जमाने से लेकर आज के नए सिनेमा में काम कर रहे कलाकारों के जीवन को फिल्म के रूप में 
 दर्शाया गया है आप सुन भी सकते है और देखना चाहे तो देख भी सकते है 
@@ -27,7 +41,7 @@ Biography का चैनल -  https://www.youtube.com/@BVKaTV
 
 सिनेमा के अनसुने किस्सों के लिए - https://www.youtube.com/@BVKATV-BOLLYWOODTALKIES
 
-### Podcast - A Collection of Hindi Films Celebrities Biography.
+# Podcast - A Collection of Hindi Films Celebrities Biography.
 वर्षों से भारतीय सिनेमा के प्रति हमारी दीवानगी फिल्मों के कलाकारों को स्टार और सूपस्टार बनाती चली आ  रही है 
 हम उन्हे सिनेमा की स्क्रीन पर देख कर उनसे भावनात्मक जुड़ाव बना लेते है और उनके जैसे बन जाना भी चाहते है 
 और उनके जीवन संघर्ष को जानने की भी हम में रुचि रहते है की अमुक कलाकार ने किस तरह जीवन को बिताया 
@@ -44,10 +58,15 @@ https://www.youtube.com/playlist?list=PLb4JuTBQlBtv_i-ngQnkmsf-wiYfC1q6c
 
 अब  आज्ञा  दीजिये  योगिता  व्यास  और  तरुण  व्यास  को  नमस्कार !
 
-### External Link
+## External Link
 Tarun Vyas Website – https://www.tarunvyas.com
 
 Tarun Vyas on IMDB – https://www.imdb.com/name/nm6071677
+
+
+![Tarun Vyas:left::round](/images/profile.png)
+
+Tags -  Biography on BV ka TV 
 
 
 

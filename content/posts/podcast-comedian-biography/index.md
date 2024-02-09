@@ -18,10 +18,17 @@ tags:
     - Biography
     - bv ka tv
     - Tarun vyas
-    - Hindi cinema
+    - Hindi cinema Villain 
     - Bollywood biography
     - Actor Biographies
     - Actress Biography 
+    - Singers Biography
+    - Comedians Biography
+    - Villains Biography
+    - Lyricist Biography
+    - Director's Biography
+    - Music Director's Biogrpahy
+    - yogita vyas  
 categories:
     - Podcast
 ---
@@ -62,7 +69,7 @@ Biography का चैनल -  https://www.youtube.com/@BVKaTV
 
 हास्य अभिनेता का अर्थ वह अभिनेता होता है जो अपने अभिनय के माध्यम से लोगों को हँसा देता है। हिंदी फिल्मों में कुछ लोग इसी कार्य के लिए विशेष रूप से उल्लेखनीय हैं जैसे जॉनी वॉकर, महमूद, जगदीप, ओम प्रकाश, जानी लीवर, टुनटुन, गोवर्धन असरानी, कादर खान, पेन्टल, राजपाल यादव आदि। कुछ मुख्य पात्रों ने भी हास्य अभिनय का खूब प्रदर्शन किया है जैसे गोविन्दा, ऋतेश देशमुख, आदि कलाकार।
 
-पॉडकास्ट सुनने  के लिए नीचे दिए लिंक पर जाए इसमें बहुत से अभिनेताओ की  जीवनिया है अभी देखिए 
+पॉडकास्ट सुनने  के लिए नीचे दिए लिंक पर जाए इसमें बहुत से हास्य कलाकारों  की  जीवनिया है अभी देखिए 
 
 https://www.youtube.com/playlist?list=PLb4JuTBQlBts57zZPdEfuL8Jdt21WgkeV
 
