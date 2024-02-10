@@ -5,7 +5,7 @@ draft:  false
 tranding: true  
 readTime: "5 min"
 description: "Khel - Khel - Mein - movie - update"
-thumbnail: "/posts/khel-khel-mein-movie-update/poster3.jpg"
+thumbnail: "/posts/khel-khel-mein-movie-update/poster1.jpg"
 featureImage: "/posts/khel-khel-mein-movie-update/poster1.jpg"
 featureImageAlt: 'Khel - Khel - Mein - movie - update' 
 featureImageCap: 'Khel - Khel - Mein - movie - update'
