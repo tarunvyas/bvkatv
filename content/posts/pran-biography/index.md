@@ -1,15 +1,15 @@
 ---
-title: 'Villain Actor Pran Birthday 12 feb'
+title: 'Pran Biography'
 date: 2024-02-12
 draft:  false   
 tranding: true  
 readTime: "5 min"
-description: "Villain - Actor - Pran - Birthday - 12 - feb"
-thumbnail: "/posts/villain-actor-pran-birthday-12-feb/poster1.jpg"
-featureImage: "/posts/villain-actor-pran-birthday-12-feb/poster1.jpg"
-featureImageAlt: 'Villain - Actor - Pran - Birthday - 12 - feb'
-featureImageCap: 'Villain - Actor - Pran - Birthday - 12 - feb'
-shareImage: "/posts/villain-actor-pran-birthday-12-feb/poster2.jpg"
+description: "Villain - of - the - Millenium - Pran"
+thumbnail: "/posts/pran-biography/poster5.jpg"
+featureImage: "/posts/pran-biography/poster1.jpg"
+featureImageAlt: 'Villain - of - the - Millenium - Pran'
+featureImageCap: 'Villain - of - the - Millenium - Pran'
+shareImage: "/posts/pran-biography/poster2.jpg"
 author: "Tarun Vyas"
 series:
     - Bollywood Updates
@@ -20,22 +20,23 @@ tags:
     - BV ka TV
     - Tarun Vyas
 categories:
-    - Bollywood Updates
+    - Biography
 ---
-# Birthday of Villain of The Millenium - Pran
+# Biography of Pran Krishna Sikand
 
-### भारतीय सिनेमा के ख़ूँख़ार खलनायक प्राण साहब का जन्मदिन
-12 फरवरी 2024, मुंबई 
+### भारतीय सिनेमा के ख़ूँख़ार खलनायक प्राण साहब 
+12 फरवरी 2024, मुंबई -
 
-आज भारतीय सिनेमा के ख़ूँख़ार खलनायक प्राण साहब का जन्मदिन है 12 फ़रवरी 1920 में जन्में प्राण सिकन्द अहलूवालिया को सदी के महान खलनायक का दर्जा दिया गया था ।
-### फिल्म के टाइटल में नाम सुन कर खौफ  
+आज भारतीय सिनेमा के ख़ूँख़ार खलनायक प्राण साहब का जन्मदिन है 12 फ़रवरी 1920 में जन्में प्राण सिकन्द अहलूवालिया को सदी के महान खलनायक का दर्जा दिया गया था । 
+
+### फिल्म के टाइटल में नाम सुन कर खौफ --
 
 टाइटल में उनका नाम पढ़ कर ही दर्शकों में ख़ौफ़ छा जाता था , जब स्क्रीन पर किसी फ़िल्म में एंट्री होती तो लोग घबरा जाते थे , ऐसी एक्टिंग के धनी थे प्राण साहब, लोग अपने बच्चों के नाम प्राण नहीं रखते थे क्योंकि प्राण ऐसे विलन का नाम था जिनके निभाए चरित्र देख कर लोग उनसे नफरत करते थे यही नफरत विलन के 
 प्रति होनी चाहिए और ऐसी नफरत पाने के लिए वैसी ही ऐक्टिंग की जरूरत होती है, और अभिनय में इनका कोई जवाब नहीं था । 
 क्या आप जानते है उनकी जीवन यात्रा कितनी कठिनाइयों भरी थी ?
 
 
-![Biography of Villain of The Millenium - Pran ](/posts/villain-actor-pran-birthday-12-feb/poster2.jpg)
+![Biography of Villain of The Millenium - Pran ](/posts/pran-biography/poster2.jpg)
 
 
 ## प्राण की जीवन यात्रा 
@@ -58,12 +59,12 @@ https://youtu.be/DFqnL7VKo-8?si=a8_07tPDYuLWB383
 
 ### प्राण की अभिनय यात्रा 
 अभिनय काल के दौरान उन्होंने 350 से अधिक फ़िल्मों में काम किया। उन्होंने खानदान (1942), पिलपिली साहेब (1954) और हलाकू (1956) जैसी फ़िल्मों में मुख्य अभिनेता की भूमिका निभायी। उनका सर्वश्रेष्ठ अभिनय मधुमती (1958), जिस देश में गंगा बहती है (1960), उपकार (1967), शहीद (1965), आँसू बन गये फूल (1969), जॉनी मेरा नाम (1970), विक्टोरिया नम्बर २०३ (1972), बे-ईमान (1972), ज़ंजीर (1973), डॉन (1978) और दुनिया (1984) फ़िल्मों में माना जाता है।
-![Biography of Villain of The Millenium - Pran ](/posts/villain-actor-pran-birthday-12-feb/poster3.jpg)
+![Biography of Villain of The Millenium - Pran ](/posts/pran-biography/poster3.jpg)
 
 प्राण ने अपने कैरियर के दौरान विभिन्न पुरस्कार और सम्मान अपने नाम किये। उन्होंने 1967, 1969 और 1972 में फ़िल्मफ़ेयर सर्वश्रेष्ठ सहायक अभिनेता पुरस्कार और 1997 में फ़िल्मफेयर लाइफटाइम एचीवमेंट अवार्ड जीता। उन्हें सन् 2000 में स्टारडस्ट द्वारा 'मिलेनियम के खलनायक' द्वारा पुरस्कृत किया गया। 2001 में भारत सरकार ने उन्हें पद्म भूषण से सम्मानित किया और भारतीय सिनेमा में योगदान के लिये 2013 में दादा साहब फाल्के सम्मान से नवाजा गया।[2010 में सीएनएन की सर्वश्रेष्ठ 25 सर्वकालिक एशियाई अभिनेताओं में चुना गया।[
 
 वहीं उनके नाम ‘उपकार’ के मंगल चाचा की भूमिका भी है, जिसे दर्शकों का बेइन्तहा प्यार और सम्मान मिला। 1968 में उपकार, 1970 आँसू बन गये फूल और 1973 में प्राण को बेईमान फ़िल्म में सर्वश्रेष्ठ सहायक अभिनेता के लिये फ़िल्म फेयर अवार्ड दिया गया। इसके बाद मिले सम्मान और अवार्ड की संख्या सैकड़ों में है।
-![Pran (12 February 1920 – 12 July 2013) ](/posts/villain-actor-pran-birthday-12-feb/poster4.jpg)
+![Pran (12 February 1920 – 12 July 2013) ](/posts/pran-biography/poster4.jpg)
 ## निधन 
 महान कलाकार प्राण साहब का निधन उसी तारीख को हुआ था जिस दिन उनका जन्मदिन होता है यानि 12 तारीख 
 बस महिना अलग था 12 जुलाई 2013 को मुम्बई के लीलावती अस्पताल में प्राण साहब ने इस फ़ानी दुनिया को अलविदा कह दिया और पीछे छोड़ गए 

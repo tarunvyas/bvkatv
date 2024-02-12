@@ -1,5 +1,5 @@
 ---
-title: 'Om - Prakash - Biography'
+title: 'Om Prakash Biography'
 date: 2024-02-02
 draft:  false   
 featured: true  
