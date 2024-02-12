@@ -9,7 +9,7 @@ thumbnail: "/posts/pran-biography/poster5.jpg"
 featureImage: "/posts/pran-biography/poster1.jpg"
 featureImageAlt: 'Villain - of - the - Millenium - Pran'
 featureImageCap: 'Villain - of - the - Millenium - Pran'
-shareImage: "/posts/pran-biography/poster2.jpg"
+shareImage: "/posts/pran-biography/poster5.jpg"
 author: "Tarun Vyas"
 series:
     - Bollywood Updates
