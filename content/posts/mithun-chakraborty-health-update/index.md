@@ -14,9 +14,9 @@ author: "Tarun Vyas"
 series:
     - Bollywood Updates
 tags:
-    - Vaani Kapoor
-    - Paresh Rawal
-    - Khel khel mein movie update
+    - Mithun Chakraborty    
+    - Health update
+    - Mithun filmography
     - BV ka TV
     - Tarun Vyas
 categories:
