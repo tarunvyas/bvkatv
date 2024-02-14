@@ -3,7 +3,7 @@ title: 'Yami Gautam in Article 370'
 date: 2024-02-14
 draft:  false   
 tranding: true  
-readTime: "5 min"
+readTime: "3 min"
 description: "Yami - Gautam - Article - 370"
 thumbnail: "/posts/yami-gautam-article-370/poster3.jpg"
 featureImage: "/posts/yami-gautam-article-370/poster3.jpg"
