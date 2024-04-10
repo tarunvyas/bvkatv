@@ -25,7 +25,7 @@ categories:
 ## Celebrity Homeopathy Doctor Vikas Saini on World Homeopathy Day 
 
 10 April 2024, Mumbai
-![Celebrity Homeopathy Doctor Vikas Saini on World Homeopathy Day](/posts/celebrity-homeopathy-doctor-Vikas-saini-on-world-homeopathy-day/poster2.jpg)
+![celebrity homeopathy doctor vikas saini on world homeopathy day](/posts/celebrity-homeopathy-doctor-Vikas-saini-on-world-homeopathy-day/poster2.jpg)
 ## World Homeopathy Day 10 April 2024
 Today is World Homeopathy Day. Homeopathy Day is celebrated on 10th April on the occasion of the birthday of Dr. Christian Frederick Samuel Hahnemann, the father of homeopathy.
 Homeopathy has now made its name in the world, and is gaining fame in the world. Homeopathy is a medical system which can be easily taken by children as well as old people and is a very effective medical system.
@@ -33,7 +33,7 @@ Homeopathy has now made its name in the world, and is gaining fame in the world.
 #### Special conversation with celebrity homeopathy doctor Vikas Saini on World Homeopathy Day
 
 In an interview with BV ka TV World Famous Homeopathy Dr. Vikas Saini told that homeopathy is a medical system based on symptoms. If the patient tells his symptoms correctly to his doctor, then the medicine works very well. Therefore, when the patient goes to a homeopathic doctor, he should tell all his symptoms in detail because the patient's medicine is prescribed on the basis of these symptoms only.
-![Celebrity Homeopathy Doctor Vikas Saini on World Homeopathy Day](/posts/celebrity-homeopathy-doctor-Vikas-saini-on-world-homeopathy-day/poster1.jpg)
+![celebrity homeopathy doctor vikas saini on world homeopathy day](/posts/celebrity-homeopathy-doctor-Vikas-saini-on-world-homeopathy-day/poster1.jpg)
 Dr. Vikas Saini is a celebrity homeopathic doctor and a very renowned homeopathic doctor. His name has been written in the Medical Science chapter in the Limca Book of Records. Along with this, he has been awarded Dr.Sampat Kumar Jain Memorial Award , the special award in  homeopathy Field .Apart from this, his name is also recorded in the Guinness World Record.
 Dr Vikas Saini is an honest and dedicated person towards his work and tries his best to promote homeopathy.
 
