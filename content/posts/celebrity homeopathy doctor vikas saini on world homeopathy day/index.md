@@ -49,6 +49,11 @@ LIMCA BOOK OF RECORDS
 GUINNESS WORLD RECORDS 
 DR.SKJ MEMORIAL AWRDEE
 
+## comment of Patients
+
+Bidita Bag Says - in 2018-21 Health wise I had a bad phase, That time Dr.Vikas bhaiya and Homeopathy treatment came to my rescue. It works on the root cause and stimulates body's natural healing powers. I strongly recommend homeopathy treatment.
+
+Tarun Vyas Says - My father was about to die due to heart failure, but Dr vikas saved his life with only homeopatic medicines, now its alomost 7 year completed my father is very much fit and fine.
 ## External Link
 Tarun Vyas Website – https://www.tarunvyas.com
 
