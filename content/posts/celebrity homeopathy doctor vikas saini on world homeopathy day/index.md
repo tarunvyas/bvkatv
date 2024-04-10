@@ -9,7 +9,7 @@ thumbnail: "/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-d
 featureImage: "/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster2.jpg"
 featureImageAlt: 'Celebrity - Homeopathy - Doctor - Vikas - Saini - on - World - Homeopathy - Day'
 featureImageCap: 'Celebrity - Homeopathy - Doctor - Vikas - Saini - on - World - Homeopathy - Day'
-shareImage: "/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster1.jpg"
+shareImage: "/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster6.jpg"
 author: "Tarun Vyas"
 series:
     - Bollywood Updates
@@ -26,7 +26,7 @@ categories:
 
 10 April 2024, Mumbai
 ## World Homeopathy Day 10 April 2024
-![Christian Friedrich Samuel Hahnemann](/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster6.jpg)
+![Christian Friedrich Samuel Hahnemann](/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster1.jpg)
 
 Today is World Homeopathy Day. Homeopathy Day is celebrated on 10th April on the occasion of the birthday of Dr. Christian Frederick Samuel Hahnemann, the father of homeopathy.
 Homeopathy has now made its name in the world, and is gaining fame in the world. Homeopathy is a medical system which can be easily taken by children as well as old people and is a very effective medical system.
