@@ -26,7 +26,7 @@ categories:
 
 10 April 2024, Mumbai
 ## World Homeopathy Day 10 April 2024
-![Christian Friedrich Samuel Hahnemann](/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster1.jpg)
+![Christian Friedrich Samuel Hahnemann](/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster2.jpg)
 
 Today is World Homeopathy Day. Homeopathy Day is celebrated on 10th April on the occasion of the birthday of Dr. Christian Frederick Samuel Hahnemann, the father of homeopathy.
 Homeopathy has now made its name in the world, and is gaining fame in the world. Homeopathy is a medical system which can be easily taken by children as well as old people and is a very effective medical system.
