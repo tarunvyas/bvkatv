@@ -39,6 +39,7 @@ In an interview with BV ka TV World Famous Homeopathic Specialist Dr. Vikas Sain
 
 Dr. Vikas Saini is a celebrity homeopathic doctor and a very renowned homeopathic doctor. His name has been written in the Medical Science chapter in the Limca Book of Records. Along with this, he has been awarded Dr.Sampat Kumar Jain Memorial Award , the special award in  homeopathy Field .Apart from this, his name is also recorded in the Guinness World Record.
 Dr Vikas Saini is an honest and dedicated person towards his work and tries his best to promote homeopathy.
+![Doctor Vikas at DD Rajasthan in Dharti Dhoran Ri Show](/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster4.jpg)
 
 ### Study and Awards 
 Dr.Vikas Saini, BHMS,DNHE,FCR(CARDIAC),CC-ECG INT.(AHERF)
