@@ -48,12 +48,15 @@ LIMCA BOOK OF RECORDS
 
 GUINNESS WORLD RECORDS 
 DR.SKJ MEMORIAL AWRDEE
+![Dr Vikas with a Patient](/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster9.jpg)
 
-## comment of Patients
+## Comment By Celebriety Patients
 
-Bidita Bag Says - in 2018-21 Health wise I had a bad phase, That time Dr.Vikas bhaiya and Homeopathy treatment came to my rescue. It works on the root cause and stimulates body's natural healing powers. I strongly recommend homeopathy treatment.
+Famous Actress Bidita Bag Says - in 2018-21 Health wise I had a bad phase, That time Dr.Vikas bhaiya and Homeopathy treatment came to my rescue. It works on the root cause and stimulates body's natural healing powers. I strongly recommend homeopathy treatment.
+![Actress Bidita Bag with nawazuddin siddiqui for Film promotion](/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster7.jpg)
 
-Tarun Vyas Says - My father was about to die due to heart failure, but Dr vikas saved his life with only homeopatic medicines, now its alomost 7 year completed my father is very much fit and fine.
+Bollywood Actor & TV Host Tarun Vyas Says - My father was about to die due to heart failure, but Dr vikas saved his life with only homeopatic medicines, now its alomost 7 year completed my father is very much fit and fine.
+![Actor Tarun Vyas with Dr Vikas Saini at Clinic](/posts/celebrity-homeopathy-doctor-vikas-saini-on-world-homeopathy-day/poster8.jpg)
 ## External Link
 Tarun Vyas Website – https://www.tarunvyas.com
 
