@@ -5,8 +5,8 @@ draft:  false
 featured: true  
 readTime: "4 min"
 description: "Zeenat Aman - Biography"
-thumbnail: "/posts/zeenat-aman-biography/poster.jpg"
-featureImage: "/posts/zeenat-aman-biography/poster.jpg"
+thumbnail: "/posts/zeenat-aman-biography/poster2.jpg"
+featureImage: "/posts/zeenat-aman-biography/poster2.jpg"
 author: "Tarun Vyas"
 series:
     - Biography
@@ -39,6 +39,7 @@ categories:
 ### एक ग़लत कदम ने कैसा ज़ीनत अमान को कैसे नीचे गिरा दिया देखिए ज़ीनत अमान की बायोग्राफी में 
 नीचे दिये लिंक कर क्लिक करे, कमेंट भी कीजिएगा और पसंद आये तो एक लाइक और शेयर भी आप कीजिए 
 आशा है आपको हमारे रिसर्च पसंद आयेगी और ज़ीनत अमान की ज़िंदगी से जुड़े कई राज आप जान पायेंगे जो आकों कही और नहीं मिलेंगे।
+[Zeenat Amaan Biography](/posts/content/posts/zeenat-aman-biography/poster.jpg)
 https://youtu.be/ZHlNkNdKDwk?si=V7Irvup_gJalyBg8
 
 
