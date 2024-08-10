@@ -3,7 +3,7 @@ title: 'Biography of Zeenat Aman '
 date: 2024-08-10
 draft:  false   
 featured: true  
-readTime: "5 min"
+readTime: "4 min"
 description: "Zeenat Aman - Biography"
 thumbnail: "/posts/zeenat-aman-biography/poster.jpg"
 featureImage: "/posts/zeenat-aman-biography/poster.jpg"
