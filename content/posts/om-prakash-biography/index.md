@@ -1,28 +1,31 @@
 ---
-title: 'Om - Prakash - Biography'
+title: 'Om Prakash Biography'
 date: 2024-02-02
 draft:  false   
 featured: true  
 readTime: "5 min"
 description: "Om - Prakash - Biography"
-thumbnail: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
-featureImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
+thumbnail: "/posts/om-prakash-biography/poster.jpg"
+featureImage: "/posts/om-prakash-biography/poster.jpg"
 featureImageAlt: 'Om - Prakash - Biography' 
 featureImageCap: 'Om - Prakash - Biography'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
 author: "Tarun Vyas"
 series:
     - Biography
-tags: 
-    - Om - Prakash
+tags:
     - Biography
+    - Om prakash Biography
+    - BV ka TV
+    - Tarun Vyas
+    
 categories:
     - Biography
 ---
 
 # Great Character Actor of Hindi Cinema – Om Prakash Biography
 
-![Om Prakash Biographyd:::round](/posts/om-prakash-biography/poster.jpg)
+![Om Prakash Biographyd:::round](/posts/om-prakash-biography/poster2.jpg)
 
 
 This is Great biography blog and video of Actor Om Prakash Biography
@@ -39,13 +42,13 @@ Om Prakash Biography by BV ka TV Tarun Vyas.
 
 आप  हमारे  पॉडकास्ट  पर  भी  ये  बायोग्राफी  सुन  सकते  है  दिए  गए  लिंक  पर  सुनिए
 
-Biography Link - https://www.youtube.com/watch?v=e-FZpANzfnc
+Jeevan Biography Link - https://www.youtube.com/watch?v=e-FZpANzfnc
 
 ## Om Prakash Legendary Character Actor
 
 नमक  हलाल  के  ददु  कहिये  या  शराबी  के  मुंशी  जी, गोपी  फिल्म  में  दिलीप  कुमार  के  बड़े  भाई  का  किरदार  ऐसा  निभाया  कि  ट्रेडेडी  किंग  दिलीप  कुमार  भी  उनके  आगे  छोटे  ही  नज़र  आये
 
-चुपके  चुपके  में Dharmendra के  जीजा  जी  का  रोले  किया  और  खूब  हसाया, पर  ऐसा  नहीं  है  की  उन्होंने  सिर्फ  कॉमेडी  ही  की, उनके  धीर  गंभीर  अभिनय  ने  गोपी  जैसी  कई  फिल्मो  में  दिग्गज  कलाकारों  को  पानी  पिला  दिया  था
+चुपके  चुपके  में Dharmendra के  जीजा  जी  का  रोल  किया  और  खूब  हसाया, पर  ऐसा  नहीं  है  की  उन्होंने  सिर्फ  कॉमेडी  ही  की, उनके  धीर  गंभीर  अभिनय  ने  गोपी  जैसी  कई  फिल्मो  में  दिग्गज  कलाकारों  को  पानी  पिला  दिया  था
 
 ![Om Prakash Biography:](/posts/om-prakash-biography/amitabh_omprakash.jpg)
 
@@ -62,12 +65,11 @@ Tarun Vyas Website – https://www.tarunvyas.com
 
 Tarun Vyas on IMDB – https://www.imdb.com/name/nm6071677
 
-Om Prakash on IMDB – https://www.imdb.com/name/nm0695170
+Podcast Biography collection - https://www.youtube.com/playlist?list=PLb4JuTBQlBtv_i-ngQnkmsf-wiYfC1q6c
 
-![Tarun Vyas:left::round](/images/profile.png)
+![Tarun Vyas::round](/images/profile.png)
 
-Tags -  Biography of Om prakash - Om-Prakash- Biography on BV ka TV 
-
+Tags -  Biography of Om prakash, Retro cinema vactor, Hindi films comedian, Bollywood actors, radio in bollywood, BV ka TV Biographies, Bollywood update
 
 
 
