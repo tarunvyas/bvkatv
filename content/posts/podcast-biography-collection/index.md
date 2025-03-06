@@ -4,11 +4,11 @@ date: 2025-03-07
 draft:  false   
 featured: true  
 readTime: "2 min"
-description: "MIc-Pe-Tarun"
+description: "mic-pe-tarun"
 thumbnail: "/posts/mic-pe-tarun/poster.jpg"
-featureImage: "/posts/mic-pe-tarunposter.jpg"
-featureImageAlt: 'Podcast - Biography' 
-featureImageCap: 'Podcast - Biography'
+featureImage: "/posts/mic-pe-tarun/poster.jpg"
+featureImageAlt: 'Podcast - Micpetarun' 
+featureImageCap: 'Podcast - Micpetarun'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
 author: "Tarun Vyas"
 series:
