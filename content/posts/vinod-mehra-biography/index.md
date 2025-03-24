@@ -4,7 +4,7 @@ date: 2025-03-25
 draft: false
 tranding: true
 readTime: "4 min"
-description: "Allu Arjun becomes the highest-paid actor with Rs 175 crore deal for Atlee’s next big film."
+description: "Allu Arjun becomes the highest-paid actor with Rs 175 crore deal for Atlees next big film."
 thumbnail: "/posts/allu-arjun-atlee-film/poster1.jpg"
 featureImage: "/posts/allu-arjun-atlee-film/poster1.jpg"
 featureImageAlt: 'Allu Arjun Atlee Film'
