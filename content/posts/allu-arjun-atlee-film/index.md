@@ -13,7 +13,7 @@ shareImage: "/posts/allu-arjun-atlee-film/poster1.jpg"
 author: "Tarun Vyas"
 series:
   - South Cinema
-  - Bollywood News
+  - Bollywood Updates
 tags:
   - Allu Arjun
   - Atlee
@@ -21,7 +21,7 @@ tags:
   - Pan India Film
   - BV ka TV
 categories:
-  - Entertainment News
+  - Bollywood Updates
 ---
 
 # Allu Arjun बने इंडिया के सबसे महंगे एक्टर - साइन की 175 करोड़ की डील
