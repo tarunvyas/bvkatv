@@ -1,66 +1,54 @@
 ---
-title: 'Podcast on Biographies'
-date: 2024-02-02
+title: 'Podcast on Sai Baba'
+date: 2025-03-07
 draft:  false   
 featured: true  
-readTime: "5 min"
-description: "Podcast - on - Biographies"
-thumbnail: "/posts/podcast-biography-collection/poster.jpg"
-featureImage: "/posts/podcast-biography-collection/poster.jpg"
-featureImageAlt: 'Podcast - Biography' 
-featureImageCap: 'Podcast - Biography'
+readTime: "2 min"
+description: "mic-pe-tarun"
+thumbnail: "/posts/mic-pe-tarun/poster.jpg"
+featureImage: "/posts/mic-pe-tarun/poster.jpg"
+featureImageAlt: 'Podcast - Micpetarun' 
+featureImageCap: 'Podcast - Micpetarun'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
 author: "Tarun Vyas"
 series:
-    - Podcast - BV ka TV
+    - Podcast - Mic Pe Tarun on TV ka TV
 tags:
     - Podcast
-    - Biography
-    - Collection of Biographies
-    - BV ka TV
+    - Devotional
+    - Spritual Podcast
+    - TV ka TV
     - Tarun vyas
 categories:
-    - Podcast
----
-सुनिए और देखिए एक शानदार पॉडकास्ट चैनल - bv ka tv यहाँ आपको मिलेंगी बहुत ही गहरी शोध की गई जीवनियों का संग्रह 
-इसमें भारतीय सिनेमा के ब्लैक एण्ड व्हाइट जमाने से लेकर आज के नए सिनेमा में काम कर रहे कलाकारों के जीवन को फिल्म के रूप में 
-दर्शाया गया है आप सुन भी सकते है और देखना चाहे तो देख भी सकते है 
-आज ही सबस्क्राइब कीजिए हमारे यूट्यूब चैनल को जिनका लिंक नीचे है । 
+    - Devotional
+-# माइक पे तरुण पॉडकास्ट - एपिसोड 1
 
-Biography का चैनल -  https://www.youtube.com/@BVKaTV
+## एपिसोड का शीर्षक: साईं की कहानी: शिरडी से संसार तक
 
-सिनेमा के अनसुने किस्सों के लिए - https://www.youtube.com/@BVKATV-BOLLYWOODTALKIES
+### होस्ट: तरुण व्यास
+### मेहमान: निखिल कपूर (साईं भक्त)
 
-# Podcast - A Collection of Hindi Films Celebrities Biography.
-वर्षों से भारतीय सिनेमा के प्रति हमारी दीवानगी फिल्मों के कलाकारों को स्टार और सूपस्टार बनाती चली आ  रही है 
-हम उन्हे सिनेमा की स्क्रीन पर देख कर उनसे भावनात्मक जुड़ाव बना लेते है और उनके जैसे बन जाना भी चाहते है 
-और उनके जीवन संघर्ष को जानने की भी हम में रुचि रहते है की अमुक कलाकार ने किस तरह जीवन को बिताया 
-वो फिल्म में कैसे आए उनका जीवन साथी कौन है कितनी नेट वर्थ है उनका बचपन कैसा था कहाँ तक पढे है 
-किस फिल्म में क्या रोल रहा ऐसे तमाम सवाल हम जानना चाहते है और इन सवालों की प्यास को बुझाने के लिए 
-जीवनी देखने का मन करता है और इसीलिए हमारा प्रयास आप तक सच्ची और अच्छी जानकारिया लाने का है 
-तो देर न कीजीए और क्लिक कीजिए नीचे लिंक पर और bv  ka tv  की बायोग्राफी की दुनिया में आपका स्वागत है । 
+### एपिसोड का विवरण:
+"माइक पे तरुण" पॉडकास्ट के पहले एपिसोड में, होस्ट तरुण व्यास और साईं भक्त निखिल कपूर के साथ एक रोचक सफर का अनुभव करें। इस एपिसोड का नाम है "साईं की कहानी: शिरडी से संसार तक।" निखिल कपूर अपने जीवन के कुछ चमत्कारी अनुभवों को साझा करते हैं और बताते हैं कैसे शिरडी साईं बाबा के आशीर्वाद ने उनकी जिंदगी बदली।
 
+### साईं बाबा के चमत्कार:
+शिरडी साईं बाबा अपने चमत्कारों और लीलाओं के लिए प्रसिद्ध हैं। उन्होंने अपने भक्तों के जीवन में अनेक चमत्कारी परिवर्तन लाए। एक कहानी है कि जब शिरडी गाँव में अकाल पड़ा था, तो साईं बाबा ने एक छोटी सी हांडी में इतना प्रसाद बनाया कि पूरे गाँव को भोजन प्राप्त हुआ। एक और प्रसंग में, एक भक्त के बीमार बच्चे को बस बाबा की उदी (विभूति) देने से उसका रोग दूर हो गया। ऐसे ही कई चमत्कारों से बाबा ने अपने भक्तों को जीवन में आश्वासन और शांति दी।
 
-पॉडकास्ट सुनने  के लिए नीचे दिए लिंक पर जाए इसमें कुल 48 जीवनिया है अभी देखिए 
+### मुख्य विशेषताएं:
+- साईं बाबा की लीलाओं और चमत्कारों की कहानियाँ
+- निखिल कपूर के जीवन के प्रेरणादायी अनुभव
+- शिरडी साईं बाबा के उपदेश और उनका जीवन पर प्रभाव
 
-https://www.youtube.com/playlist?list=PLb4JuTBQlBtv_i-ngQnkmsf-wiYfC1q6c
+### एपिसोड देखें:
+[![यूट्यूब पर देखें](https://img.youtube.com/vi/CFLikkLeOSk/0.jpg)](https://youtu.be/CFLikkLeOSk)
 
+### कहाँ सुने:
+आप "माइक पे तरुण" पॉडकास्ट को यूट्यूब पर "TV का TV" चैनल पर सुन सकते हैं। नए एपिसोड हर गुरुवार को रिलीज होंगे, जो साईं बाबा का पवित्र दिन माना जाता है।
 
-अब  आज्ञा  दीजिये  योगिता  व्यास  और  तरुण  व्यास  को  नमस्कार !
+### हमें फॉलो करें:
+- यूट्यूब: [TV का TV](https://www.youtube.com/channel/UC...)
+- इंस्टाग्राम: [@micpetarun](https://www.instagram.com/micpetarun)
+- फेसबुक: [माइक पे तरुण](https://www.facebook.com/micpetarun)
 
-## External Link
-Tarun Vyas Website – https://www.tarunvyas.com
-
-Tarun Vyas on IMDB – https://www.imdb.com/name/nm6071677
-
-
-![Tarun Vyas::round](/images/profile.png)
-
-Tags -  Biography on BV ka TV 
-
-
-
-
-
-
-
+### हमसे संपर्क करें:
+अगर आपके पास कोई सवाल या सुझाव हो तो हमें कमेंट या मैसेज करें!
