@@ -1,6 +1,6 @@
 ---
 title: 'Allu Arjun Signs India’s Biggest Film Deal'
-date: 2025-03-25
+date: 2025-03-24
 draft: false
 tranding: true
 readTime: "4 min"
