@@ -5,8 +5,8 @@ draft:  false
 featured: true  
 readTime: "2 min"
 description: "mic-pe-tarun"
-thumbnail: "/posts/mic-pe-tarun/poster.jpg"
-featureImage: "/posts/mic-pe-tarun/poster.jpg"
+thumbnail: "/posts/podcast-biography-collection/poster.jpg"
+featureImage: "/posts/podcast-biography-collection/poster.jpg"
 featureImageAlt: 'Podcast - Micpetarun' 
 featureImageCap: 'Podcast - Micpetarun'
 shareImage: "https://img.youtube.com/vi/e-FZpANzfnc/0.jpg"
