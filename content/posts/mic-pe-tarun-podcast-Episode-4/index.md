@@ -5,11 +5,11 @@ draft: false
 tranding: true
 readTime: "2 min"
 description: "Sai Baba and Their Devotees Experiences and Sai Leela Chamatkar in Their Lives."
-thumbnail: "/posts/mic-pe-tarun-podcast-Episode-4/poster.jpg"
-featureImage: "/posts/mic-pe-tarun-podcast-Episode-4/poster2.jpg"
+thumbnail: "/posts/mic-pe-tarun-podcast-episode-4/poster.jpg"
+featureImage: "/posts/mic-pe-tarun-podcast-episode-4/poster2.jpg"
 featureImageAlt: 'Mic Pe Tarun Podcast'
 featureImageCap: 'Sai Baba Ki Kahani Shirdi Se Sansar Tak'
-shareImage: "/posts/mic-pe-tarun-podcast-Episode-4/poster1.jpg"
+shareImage: "/posts/mic-pe-tarun-podcast-episode-4/poster1.jpg"
 author: "Tarun Vyas"
 series:
   - Sai Baba Devotees
@@ -34,7 +34,7 @@ categories:
 ### एपिसोड का विवरण:
 "माइक पे तरुण" पॉडकास्ट की विशेष श्रृंखला *"साईं की कहानी: शिरडी से संसार तक"* के चौथे एपिसोड में हमारी मेहमान हैं यूट्यूबर पायल जेठानी। इस एपिसोड में उन्होंने दो अद्भुत और अविश्वसनीय चमत्कार साझा किए — एक बार बाबा ने उनके खोए हुए कंगन वापस दिलवाए और दूसरी बार तो उनके लिए ट्रेन तक रुकवा दी!
 
-![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-Episode-4/poster2.jpg)
+![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-episode-4/poster2.jpg)
 
 ### साईं बाबा के चमत्कार:
 Payal जी ने अपने सच्चे अनुभवों में बताया कि कैसे एक यात्रा के दौरान उनके कीमती कंगन खो गए थे, लेकिन उन्होंने जैसे ही बाबा को पुकारा, वह उन्हें चमत्कारिक रूप से वापस मिल गए। एक और अनुभव में, जब ट्रेन छूटने ही वाली थी, तो बाबा की कृपा से ट्रेन कुछ मिनटों के लिए रुकी रही और वे समय पर चढ़ सकीं। ये घटनाएं सिर्फ चमत्कार नहीं, बल्कि विश्वास और भक्ति की शक्ति का प्रमाण हैं।

@@ -5,11 +5,11 @@ draft: false
 tranding: true
 readTime: "2 min"
 description: "Sai Baba and Their Devotees Experiences and Sai Leela Chamatkar in Their Lives."
-thumbnail: "/posts/mic-pe-tarun-podcast-Episode-6/poster.jpg"
-featureImage: "/posts/mic-pe-tarun-podcast-Episode-6/poster2.jpg"
+thumbnail: "/posts/mic-pe-tarun-podcast-episode-6/poster.jpg"
+featureImage: "/posts/mic-pe-tarun-podcast-episode-6/poster2.jpg"
 featureImageAlt: 'Mic Pe Tarun Podcast'
 featureImageCap: 'Sai Baba Ki Kahani Shirdi Se Sansar Tak'
-shareImage: "/posts/mic-pe-tarun-podcast-Episode-6/poster1.jpg"
+shareImage: "/posts/mic-pe-tarun-podcast-episode-6/poster1.jpg"
 author: "Tarun Vyas"
 series:
   - Sai Baba Devotees
@@ -33,7 +33,7 @@ categories:
 ### एपिसोड का विवरण:
 "माइक पे तरुण" पॉडकास्ट के छठे एपिसोड में हमारे साथ जुड़ती हैं **सुचेता जेतानी**, जिन्होंने साईं बाबा के कई अद्भुत चमत्कारों को स्वयं अनुभव किया है। उन्होंने इस एपिसोड में बताया कि कैसे उन्हें **कैंसर जैसी घातक बीमारी से साईं बाबा के आशीर्वाद से मुक्ति मिली**, **सपनों में बाबा के दर्शन हुए**, और **पासपोर्ट तथा वीजा जैसी सरकारी प्रक्रियाएं भी बाबा की कृपा से सहजता से पूरी हुईं**। यह एपिसोड विश्वास और चमत्कार का जीता-जागता उदाहरण है।
 
-![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-Episode-6/poster2.jpg)
+![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-episode-6/poster2.jpg)
 
 ### साईं बाबा के चमत्कार:
 - गंभीर बीमारी **कैंसर से चमत्कारिक रूप से मुक्ति**  

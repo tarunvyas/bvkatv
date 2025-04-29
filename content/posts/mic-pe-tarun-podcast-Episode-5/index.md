@@ -5,11 +5,11 @@ draft: false
 tranding: true
 readTime: "2 min"
 description: "Sai Baba and Their Devotees Experiences and Sai Leela Chamatkar in Their Lives."
-thumbnail: "/posts/mic-pe-tarun-podcast-Episode-5/poster.jpg"
-featureImage: "/posts/mic-pe-tarun-podcast-Episode-5/poster2.jpg"
+thumbnail: "/posts/mic-pe-tarun-podcast-episode-5/poster.jpg"
+featureImage: "/posts/mic-pe-tarun-podcast-episode-5/poster2.jpg"
 featureImageAlt: 'Mic Pe Tarun Podcast'
 featureImageCap: 'Sai Baba Ki Kahani Shirdi Se Sansar Tak'
-shareImage: "/posts/mic-pe-tarun-podcast-Episode-5/poster1.jpg"
+shareImage: "/posts/mic-pe-tarun-podcast-episode-5/poster1.jpg"
 author: "Tarun Vyas"
 series:
   - Sai Baba Devotees
@@ -34,7 +34,7 @@ categories:
 ### एपिसोड का विवरण:
 "माइक पे तरुण" पॉडकास्ट की पांचवीं कड़ी में हमारे साथ जुड़ते हैं IT प्रोफेशनल **प्रदीप चोपड़ा**, जिन्होंने साईं बाबा के कुछ अत्यंत चमत्कारिक अनुभवों को साझा किया। यह एपिसोड बताता है कि कैसे बाबा ने उन्हें अंधेरे में रोशनी दिखाई, जानलेवा हालातों से बचाया, और यहां तक कि बिना पेट्रोल की कार चलवा कर उन्हें मंदिर तक बुलाया और दर्शन दिए। यह एपिसोड एक गहरी आस्था, सुरक्षा और सच्चे मार्गदर्शन की कहानी है।
 
-![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-Episode-5/poster2.jpg)
+![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-episode-5/poster2.jpg)
 
 ### साईं बाबा के चमत्कार:
 प्रदीप जी के अनुभवों में शामिल हैं:

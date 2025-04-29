@@ -5,11 +5,11 @@ draft: false
 tranding: true
 readTime: "2 min"
 description: "Sai Baba and Their Devotees Experiences and Sai Leela Chamatkar in Their Lives."
-thumbnail: "/posts/mic-pe-tarun-podcast-Episode-3/poster.jpg"
-featureImage: "/posts/mic-pe-tarun-podcast-Episode-3/poster2.jpg"
+thumbnail: "/posts/mic-pe-tarun-podcast-episode-3/poster.jpg"
+featureImage: "/posts/mic-pe-tarun-podcast-episode-3/poster2.jpg"
 featureImageAlt: 'Mic Pe Tarun Podcast'
 featureImageCap: 'Sai Baba Ki Kahani Shirdi Se Sansar Tak'
-shareImage: "/posts/mic-pe-tarun-podcast-Episode-3/poster1.jpg"
+shareImage: "/posts/mic-pe-tarun-podcast-episode-3/poster1.jpg"
 author: "Tarun Vyas"
 series:
   - Sai Baba Devotees
@@ -33,7 +33,7 @@ categories:
 ### एपिसोड का विवरण:
 "माइक पे तरुण" पॉडकास्ट की लोकप्रिय श्रृंखला *"साईं की कहानी: शिरडी से संसार तक"* के तीसरे एपिसोड में हमारे साथ हैं एरोनॉटिकल इंजीनियर और व्यवसायी श्री विकास जेठानी। इस भावनात्मक और प्रेरणादायक एपिसोड में वे एक असाधारण चमत्कार साझा करते हैं — जब उनकी अजन्मी बेटी को जीवन का खतरा था, तब साईं बाबा ने कैसे कोख में ही उसकी रक्षा की।
 
-![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-Episode-3/poster2.jpg)
+![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-episode-3/poster2.jpg)
 
 ### साईं बाबा के चमत्कार:
 जब मेडिकल रिपोर्ट्स ने चिंता बढ़ा दी थी और डॉक्टर्स भी स्पष्ट नहीं थे, तब विकास जी और उनके परिवार ने पूरी श्रद्धा के साथ साईं बाबा का स्मरण किया। चमत्कारिक रूप से, न सिर्फ बच्ची सुरक्षित रही बल्कि वह एकदम स्वस्थ पैदा हुई। विकास जी इस चमत्कार को बाबा की कृपा मानते हैं और इस एपिसोड में उन्होंने विस्तार से यह अनुभव साझा किया है।
