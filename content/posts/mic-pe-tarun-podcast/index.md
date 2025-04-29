@@ -49,9 +49,9 @@ categories:
 आप "माइक पे तरुण" पॉडकास्ट को यूट्यूब पर "TV का TV" चैनल पर सुन सकते हैं। नए एपिसोड हर गुरुवार को रिलीज होंगे, जो साईं बाबा का पवित्र दिन माना जाता है।
 
 ### हमें फॉलो करें:
-- यूट्यूब: [TV का TV](https://www.youtube.com/@TVKATV)
-- इंस्टाग्राम: [TV Ka TV](https://www.facebook.com/share/1FWhZ5cWTT/?mibextid=wwXIfr)
-- फेसबुक: [TV ka TV](https://www.instagram.com/tvkatv_hindu_dharma_channel?igsh=NDI3OTJlaTg3Z2E%3D&utm_source=qr)
+- Youtuve: [TV का TV](https://www.youtube.com/@TVKATV)
+- Face Book: [TV Ka TV](https://www.facebook.com/share/1FWhZ5cWTT/?mibextid=wwXIfr)
+- Instagram: [TV ka TV](https://www.instagram.com/tvkatv_hindu_dharma_channel?igsh=NDI3OTJlaTg3Z2E%3D&utm_source=qr)
 
 ### हमसे संपर्क करें:
 अगर आपके पास कोई सवाल या सुझाव हो तो हमें कमेंट या मैसेज करें 
