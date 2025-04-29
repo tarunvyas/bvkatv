@@ -5,11 +5,11 @@ draft: false
 tranding: true
 readTime: "2 min"
 description: "Sai Baba and Their Devotees Experiences and Sai Leela Chamatkar in Their Lives."
-thumbnail: "/posts/mic-pe-tarun-podcast-Episode-2/poster.jpg"
-featureImage: "/posts/mic-pe-tarun-podcast-Episode-2/poster2.jpg"
+thumbnail: "/posts/mic-pe-tarun-podcast-episode-2/poster.jpg"
+featureImage: "/posts/mic-pe-tarun-podcast-episode-2/poster1.jpg"
 featureImageAlt: 'Mic Pe Tarun Podcast'
 featureImageCap: 'Sai Baba Ki Kahani Shirdi Se Sansar Tak'
-shareImage: "/posts/mic-pe-tarun-podcast-Episode-2/poster1.jpg"
+shareImage: "/posts/mic-pe-tarun-podcast-episode-2/poster1.jpg"
 author: "Tarun Vyas"
 series:
   - Sai Baba Devotees
@@ -34,7 +34,7 @@ categories:
 ### एपिसोड का विवरण:
 "माइक पे तरुण" पॉडकास्ट की खास श्रृंखला *"साईं की कहानी: शिरडी से संसार तक"* के दूसरे एपिसोड में हमारे मेहमान हैं केदार गुप्ता। इस एपिसोड में वे अपने जीवन में साईं बाबा के चमत्कारी अनुभवों को साझा करते हैं। एक ऐसी यात्रा जिसमें आस्था, चमत्कार और बाबा के आशीर्वाद से जीवन में आये सकारात्मक बदलाव शामिल हैं।
 
-![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-Episode-2/poster2.jpg)
+![Mic Pe Tarun Podcast](/posts/mic-pe-tarun-podcast-episode-2/poster2.jpg)
 
 ### साईं बाबा के चमत्कार:
 शिरडी साईं बाबा अपने भक्तों की पुकार सुनते हैं और समय-समय पर चमत्कारी रूप से उनका मार्गदर्शन करते हैं। केदार गुप्ता जी ने भी ऐसे कई अनुभवों को जिया है — जब बाबा ने उन्हें कठिन समय में सहारा दिया, संकट में रास्ता दिखाया और उनके विश्वास को और दृढ़ किया। यह एपिसोड उन सबको समर्पित है जो बाबा की कृपा को महसूस करते हैं।
