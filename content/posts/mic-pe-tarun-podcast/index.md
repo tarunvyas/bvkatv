@@ -6,7 +6,7 @@ tranding: true
 readTime: "2 min"
 description: "Sai Baba and Their Devotees Experiences and Sai Leela Chamatkar in Their Lives."
 thumbnail: "/posts/mic-pe-tarun-podcast/poster1.jpg"
-featureImage: "/posts/mic-pe-tarun-podcast/poster1.jpg"
+featureImage: "/posts/mic-pe-tarun-podcast/poster2.jpg"
 featureImageAlt: 'Mic Pe Tarun Podcast'
 featureImageCap: 'Sai Baba Ki Kahani Shirdi Se Sansar Tak'
 shareImage: "/posts/mic-pe-tarun-podcast/poster1.jpg"
@@ -50,8 +50,8 @@ categories:
 
 ### हमें फॉलो करें:
 - यूट्यूब: [TV का TV](https://www.youtube.com/@TVKATV)
-- इंस्टाग्राम: [@micpetarun](https://www.instagram.com/micpetarun)
-- फेसबुक: [माइक पे तरुण](https://www.facebook.com/micpetarun)
+- इंस्टाग्राम: [@micpetarun](https://www.instagram.com/@tvkatv_hindu_dharma_channel)
+- फेसबुक: [TV ka TV](https://www.facebook.com/@TVKATV)
 
 ### हमसे संपर्क करें:
 अगर आपके पास कोई सवाल या सुझाव हो तो हमें कमेंट या मैसेज करें 
@@ -66,4 +66,4 @@ Podcast Collection - https://www.youtube.com/playlist?list=PLb4JuTBQlBtv_i-ngQnk
 
 ![Tarun Vyas::round](/images/profile.png)
 
-Tags - South Cinema, Bollywood News, Allu Arjun, Atlee Film, Big Budget Movie, BV ka TV, Latest Film Updates, Tarun Vyas
+Tags - Sai Baba Miracles, Shirdi, Spritiual Podcast, Sai bhakt Anubhav, Sai Devotee Experience, TV ka TV, Sai Ki Kahani Shirdi Se Sansar Tak, Tarun Vyas
