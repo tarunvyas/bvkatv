@@ -5,7 +5,7 @@ draft: false
 tranding: true
 readTime: "2 min"
 description: "Sai Baba and Their Devotees Experiences and Sai Leela Chamatkar in Their Lives."
-thumbnail: "/posts/mic-pe-tarun-podcast/poster1.jpg"
+thumbnail: "/posts/mic-pe-tarun-podcast/poster.jpg"
 featureImage: "/posts/mic-pe-tarun-podcast/poster2.jpg"
 featureImageAlt: 'Mic Pe Tarun Podcast'
 featureImageCap: 'Sai Baba Ki Kahani Shirdi Se Sansar Tak'
