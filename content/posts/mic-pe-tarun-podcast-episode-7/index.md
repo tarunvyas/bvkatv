@@ -1,15 +1,15 @@
 ---
-title: 'Shaadi Mein Aaye Sai Baba – Mic Pe Tarun EP 07'
+title: 'Sai Baba Ki Kahani Shirdi Se Sansar Tak'
 date: 2025-05-05
 draft: false
-trending: true
-readTime: "3 min"
-description: "Mahant Omprakash Ji from Kukas Sai Mandir shares how Sai Baba miraculously appeared at his wedding — with video proof!"
-thumbnail: "/posts/mic-pe-tarun-podcast-episode-7/thumbnail.jpg"
-featureImage: "/posts/mic-pe-tarun-podcast-episode-7/feature.jpg"
-featureImageAlt: 'Sai Baba Shaadi Miracle'
-featureImageCap: 'Shaadi Mein Aaye Sai Baba – episode-7'
-shareImage: "/posts/mic-pe-tarun-podcast-episode-7/share.jpg"
+tranding: true
+readTime: "2 min"
+description: "Sai Baba and Their Devotees Experiences and Sai Leela Chamatkar in Their Lives."
+thumbnail: "/posts/mic-pe-tarun-podcast-episode-7/poster.jpg"
+featureImage: "/posts/mic-pe-tarun-podcast-episode-7/poster1.jpg"
+featureImageAlt: 'Mic Pe Tarun Podcast'
+featureImageCap: 'Sai Baba Ki Kahani Shirdi Se Sansar Tak'
+shareImage: "/posts/mic-pe-tarun-podcast-episode-7/poster1.jpg"
 author: "Tarun Vyas"
 series:
   - Sai Baba Devotees
@@ -18,8 +18,7 @@ tags:
   - Sai Baba Podcast
   - Mic Pe Tarun
   - TV ka TV
-  - Shaadi Mein Sai Baba
-  - Kukas Sai Mandir
+  - Sai Ki kahani Shirdi Se Sansar Tak
   - Tarun Vyas Podcast
 categories:
   - Devotional
@@ -30,7 +29,7 @@ categories:
 ## एपिसोड का शीर्षक: शादी में आए साईं बाबा – वीडियो प्रूफ के साथ!
 
 ### होस्ट: तरुण व्यास  
-### मेहमान: महंत ओमप्रकाश जी, कुकास साईं मंदिर
+### मेहमान: महंत ओमप्रकाश जी, कुकस साईं मंदिर
 
 ### एपिसोड का विवरण:
 क्या आपने कभी सोचा है कि साईं बाबा आपकी शादी में साक्षात पधार सकते हैं?  
