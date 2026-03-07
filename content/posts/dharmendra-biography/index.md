@@ -6,7 +6,7 @@ tranding: true
 readTime: "5 min"
 description: "Dharmendra - Biography"
 thumbnail: "/posts/dharmendra-biography/poster.jpg"
-featureImage: "/postsdharmendra-biography/poster.jpg"
+featureImage: "/posts/dharmendra-biography/poster.jpg"
 featureImageAlt: 'Dharmendra - Biography' 
 featureImageCap: 'Dharmendra - Biography'
 shareImage: "https://img.youtube.com/vi/637cvMBSuIo/0.jpg"
@@ -70,6 +70,7 @@ occupation: Actor, Producer, Politician
 धर्मेंद्र ने दो शादियाँ कीं। उनकी पहली पत्नी **प्रकाश कौर** हैं और दूसरी पत्नी प्रसिद्ध अभिनेत्री **हेमा मालिनी** हैं। उनके बेटे **सनी देओल** और **बॉबी देओल** भी बॉलीवुड के बड़े सितारे हैं। 
 
 फिल्म अभिनेता टीवी एंकर ,ब्लॉगर और लेखक तरुण व्यास के बारे में जानने के लिए ये वेबसाइट देखिये। 
+![Dharmendra Biography](https://youtu.be/637cvMBSuIo?si=7DmM3NY1k-rgEpj_)
 
 ## External Link
 Tarun Vyas Website – https://www.tarunvyas.com
