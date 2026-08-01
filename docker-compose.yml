@@ -1,0 +1,14 @@
+services:
+  hugo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bvkatv-hugo
+    ports:
+      - "1313:1313"
+    user: "${UID:-1000}:${GID:-1000}"
+    volumes:
+      - .:/src
+    working_dir: /src
+    command: >-
+      server --bind 0.0.0.0 --disableFastRender --baseURL http://localhost:1313

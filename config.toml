@@ -1,4 +1,5 @@
 baseURL = 'https://bvkatv.com/'
-languageCode = 'en-us'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
 title = 'Bvkatv'
 theme = 'clarity'

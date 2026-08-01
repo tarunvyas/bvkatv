@@ -4,7 +4,6 @@ date: 2026-03-08
 draft:  false   
 tranding: true  
 readTime: "5 min"
-description: "Dharmendra - Biography"
 thumbnail: "/posts/dharmendra-biography/poster.jpg"
 featureImage: "/posts/dharmendra-biography/poster.jpg"
 featureImageAlt: 'Dharmendra - Biography' 
@@ -22,9 +21,12 @@ tags:
 categories:
     - Biography
 ---
+
 # धर्मेंद्र: बॉलीवुड के असली 'ही-मैन' की कहानी
 
 धर्मेंद्र सिंह देओल, जिन्हें दुनिया **धर्मेंद्र** के नाम से जानती है, भारतीय सिनेमा के सबसे सफल और प्रिय अभिनेताओं में से एक हैं। 65 वर्षों से अधिक के करियर में उन्होंने 300 से अधिक फिल्मों में काम किया है। 
+
+
 ![Dharmendra Biography](/posts/dharmendra-biography/poster1.jpg)
 
 ## प्रारंभिक जीवन (Early Life)

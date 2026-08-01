@@ -15,16 +15,14 @@
       <div class="excerpt_footer">
         {{- end }}
         <div class="pale">
-          {{- $summary := truncate 320 .Summary }}
-          {{- if .Params.summary }}
-            {{- $summary = .Params.summary }}
-          {{- else if .Params.abstract }}
-            {{ $summary = .Params.abstract }}
-          {{- end }}
-          {{ if not ( strings.Contains $summary "<p>" ) }}
-            <p>{{ $summary | markdownify }}</p>
+          {{- $summary := .Summary -}}
+          
+          {{- $summary = $summary | htmlUnescape | plainify -}}
+          {{- $summary = truncate 250 $summary -}}
+          {{ if not ( strings.Contains $summary "<p>") }}
+            <p>{{ $summary }}</p>
           {{ else }}
-            {{ $summary | markdownify }}
+            {{ $summary }}
           {{ end }}
           <br>
           {{- $r := T "read_more" }}
