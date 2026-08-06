@@ -97,7 +97,7 @@ categories:
 
 या नीचे दिए गए QR Code को स्कैन करके भी सहयोग कर सकते हैं।
 
-![Support Mic Pe Tarun](/posts/mic-pe-tarun-podcast-episode-9/poster.jpg)
+![Support Mic Pe Tarun](/posts/mic-pe-tarun-podcast-episode-9/poster3.jpg)
 
 **आपका छोटा सा सहयोग भी हमारे लिए अमूल्य है।**
 
